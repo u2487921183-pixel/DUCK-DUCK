@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'duk';
+					src: url('/wp-content/uploads/useanyfont/3381dUk.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/3381dUk.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.duk{font-family: 'duk' !important;}
+
+						.main-font{
+					font-family: 'duk' !important;
+				}
+		
